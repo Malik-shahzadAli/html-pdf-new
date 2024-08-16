@@ -1,0 +1,27 @@
+{
+  "name": "html-pdf-new",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "HTML",
+    "PDF",
+    "puppeteer",
+    "Node PDF",
+    "PDF writer",
+    "PDF generator"
+  ],
+  "author": "SeeBiz Developers",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Malik-shahzadAli/html-pdf-new"
+},
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
